@@ -6,10 +6,7 @@ public class DataTypesAndVariables {
 	{
 		byte b1 = 1; 
 		short s1 = 1; 
-
 		char c = 'S';
-		
-
 		char ch2 = 'a';
 		int num1 = 12; 
 		float f1 = 3.4f;   // double
@@ -21,7 +18,6 @@ public class DataTypesAndVariables {
 		char ch1[]=s3.toCharArray();
 		System.out.println(b1);
 		System.out.println(s1);
-
 		System.out.println(c);
 		System.out.println(ch2);
 		System.out.println(f1);
@@ -32,6 +28,5 @@ public class DataTypesAndVariables {
 		System.out.println(s4);
 		System.out.println(s2.toUpperCase());
 		System.out.println(s3.toUpperCase());
-
 	}
 }
