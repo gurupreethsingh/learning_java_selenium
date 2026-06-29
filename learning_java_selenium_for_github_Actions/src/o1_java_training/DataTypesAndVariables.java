@@ -12,6 +12,7 @@ public class DataTypesAndVariables {
 		long num2 = 7658765876587657865l;
 		double d1 = 765765.8976876;
 		String s2 = "hello world";
+		String s3="shilpa";
 		System.out.println(b1);
 		System.out.println(s1);
 		System.out.println(ch);
@@ -20,5 +21,8 @@ public class DataTypesAndVariables {
 		System.out.println(num2);
 		System.out.println(d1);
 		System.out.println(s2);
+		System.out.println(s2.toUpperCase());
+		System.out.println(s3.toUpperCase());
+
 	}
 }
