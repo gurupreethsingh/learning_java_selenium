@@ -14,16 +14,7 @@ public class DataTypesAndVariables {
 		String s2 = "hello world Gurupreeth";
 		String s3="shilpa";
 		char ch1[]=s3.toCharArray();
-		System.out.println(b1);
-		System.out.println(s1);
-		System.out.println(ch2);
-		System.out.println(f1);
-		System.out.println(num1);
-		System.out.println(num2);
-		System.out.println(d1);
-		System.out.println(s2);
-		System.out.println(s2.toUpperCase());
-		System.out.println(s3.toUpperCase());
+	
 
 	}
 }
