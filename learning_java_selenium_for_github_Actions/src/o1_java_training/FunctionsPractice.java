@@ -8,7 +8,7 @@ public class FunctionsPractice
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("the sum of two numbers is " + add(22, 33));
+		System.out.println("the sum of two numbers is " + add(25, 35));
 	}
 
 }
