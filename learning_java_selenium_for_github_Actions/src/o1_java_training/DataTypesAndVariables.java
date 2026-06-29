@@ -9,7 +9,7 @@ public class DataTypesAndVariables {
 		char c = 'S';
 		char ch2 = 'a';
 		int num1 = 12; 
-		float f1 = 3.4f;   // double
+		float f1 = 3.4f;
 		long num2 = 7658765876587657865l;
 		double d1 = 765765.8976876;
 		String s2 = "hello world Gurupreeth";
